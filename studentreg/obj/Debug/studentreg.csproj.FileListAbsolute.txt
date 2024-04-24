@@ -1,0 +1,10 @@
+D:\Users\ayesh\studentreg\bin\Debug\studentreg.exe.config
+D:\Users\ayesh\studentreg\bin\Debug\studentreg.exe
+D:\Users\ayesh\studentreg\bin\Debug\studentreg.pdb
+D:\Users\ayesh\studentreg\obj\Debug\studentreg.csproj.AssemblyReference.cache
+D:\Users\ayesh\studentreg\obj\Debug\studentreg.Form1.resources
+D:\Users\ayesh\studentreg\obj\Debug\studentreg.Properties.Resources.resources
+D:\Users\ayesh\studentreg\obj\Debug\studentreg.csproj.GenerateResource.cache
+D:\Users\ayesh\studentreg\obj\Debug\studentreg.csproj.CoreCompileInputs.cache
+D:\Users\ayesh\studentreg\obj\Debug\studentreg.exe
+D:\Users\ayesh\studentreg\obj\Debug\studentreg.pdb
